@@ -120,13 +120,9 @@ const dev = {
 
 <div align="center">
 
-![gunee-exe's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunee-exe&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gunee-exe&theme=github_dark&hide_border=true&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=gunee-exe&theme=dark&hide_border=true)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=gunee-exe&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)](https://github.com/gunee-exe)
 
 </div>
 
