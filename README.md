@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:080c10,50:0d1117,100:1c2128&height=80&section=header)
 
-![banner](./banner.png)
+![banner](./header.png)
 
 <div align="center">
 
