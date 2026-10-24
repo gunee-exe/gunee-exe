@@ -1,0 +1,40 @@
+name: night city
+
+# Redraws my contribution graph as a city skyline (.github/scripts/night-city.mjs) and publishes the SVG
+# to the `output` branch, which the README shows. No secrets needed: it reads the public calendar.
+on:
+  schedule:
+    - cron: "17 3,15 * * *"   # twice a day
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/scripts/night-city.mjs"
+      - ".github/workflows/night-city.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: night-city
+  cancel-in-progress: true
+
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Draw the city
+        run: node .github/scripts/night-city.mjs "${{ github.repository_owner }}" dist/night-city.svg
+      - name: Publish to the output branch
+        run: |
+          cd dist
+          git init -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add night-city.svg
+          git commit -q -m "night city $(date -u +%F)"
+          git push -q -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" output

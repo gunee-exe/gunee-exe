@@ -6,28 +6,35 @@
 
 <div align="center">
 
+<a href="https://www.usmanghani.me"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=E3B341&center=true&vCenter=true&width=640&lines=Flutter+%26+AI+app+developer;Shipped+PlayGrid+%C2%B7+Whispr+%C2%B7+Calori+%C2%B7+Textify;Software+Engineering+%40+FAST-NUCES;Open+to+freelance+projects+%26+internships" alt="Flutter & AI app developer" /></a>
+
+[![Website](https://img.shields.io/badge/Website-usmanghani.me-e3b341?style=for-the-badge&logo=googlechrome&logoColor=0d1117)](https://www.usmanghani.me)
+[![Resume](https://img.shields.io/badge/Resume-PDF-1f6feb?style=for-the-badge&logo=readdotcv&logoColor=white)](https://www.usmanghani.me/assets/Muhammad_Usman_Ghani.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Usman_Ghani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usman-ghani-74800936b/)
+[![Email](https://img.shields.io/badge/Email-m.usman.4.work-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.usman.4.work@gmail.com)
+
 ```js
 // who is building this thing?
 const dev = {
   name:      "Usman Ghani",
   handle:    "@gunee-exe",
+  role:      "Flutter & AI app developer",
   degree:    "BSc Software Engineering · FAST NUCES",
-  semester:  "4th · SE'28",
+  semester:  "5th · SE'28",
   location:  "Faisalabad, Pakistan 🇵🇰",
-  building:  "cross-platform mobile apps with Flutter",
-  learning:  "AI integration · full-stack mobile · clean architecture",
-  status:    "open to internships & collaborations",
+  shipped:   ["PlayGrid", "Whispr", "Calori", "Textify", "Offline Chat"],
+  stack:     "Flutter · Riverpod · FastAPI · Firebase · Cloudflare Workers",
+  status:    "open to freelance projects, internships & collaborations",
+  site:      "usmanghani.me",
 }
 ```
 
+![Freelance](https://img.shields.io/badge/🟡_Open_to-Freelance-9e6a03?style=flat-square)
 ![Internships](https://img.shields.io/badge/🟢_Open_to-Internships-238636?style=flat-square)
 ![Collabs](https://img.shields.io/badge/🔵_Open_to-Collaborations-1f4068?style=flat-square)
-![Semester](https://img.shields.io/badge/4th_Sem-SE'28-9e6a03?style=flat-square)
+![Semester](https://img.shields.io/badge/5th_Sem-SE'28-555?style=flat-square)
 ![Location](https://img.shields.io/badge/📍-Faisalabad,_PK-555?style=flat-square)
-
-[![Email](https://img.shields.io/badge/Email-m.usman.4.work%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:m.usman.4.work@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Usman%20Ghani-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usman-ghani-74800936b/)
-[![GitHub](https://img.shields.io/badge/GitHub-gunee--exe-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gunee-exe)
+![Profile views](https://komarev.com/ghpvc/?username=gunee-exe&style=flat-square&color=0d1117&label=profile+views)
 
 </div>
 
@@ -37,82 +44,143 @@ const dev = {
 
 | | |
 |---|---|
-| 📱 **Building** | Cross-platform mobile apps in Flutter — Android & iOS from one codebase |
-| 🤖 **Exploring** | How AI fits into real products — LLMs, APIs, and smart features |
-| 🔍 **Looking for** | SE internship in mobile dev, backend, or product engineering |
-| 💬 **Ask me about** | Flutter · C++ · OOP · DSA · SQL · Software Design & Architecture |
+| 🏟️ **Just shipped** | **PlayGrid** at NaSCon '26: a multi-sport league platform. Flutter app + FastAPI backend on PostgreSQL and Redis, 830 unit tests, load-tested at 550 users with 0 failed requests |
+| 📱 **Building** | Flutter apps for iOS & Android with AI where it earns its place: voice reminders (Whispr), photo meal estimates (Calori) |
+| 🔍 **Looking for** | Freelance projects and SE internships in mobile, backend or product engineering |
+| 💬 **Ask me about** | Flutter · Riverpod · Clean Architecture · FastAPI · LLM integration · offline-first apps |
 
 ---
 
-## 🗡️ The Arsenal
+## 📱 On my phone
 
-**📱 Mobile**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<div align="center">
 
-**⚙️ Systems**
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-555555?style=flat-square&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-555555?style=flat-square&logoColor=white)
+<a href="https://www.usmanghani.me/#/playgrid"><img src="https://www.usmanghani.me/assets/projects/playgrid/poster.webp" width="150" alt="PlayGrid" /></a>&nbsp;
+<a href="https://www.usmanghani.me/#/whispr"><img src="https://www.usmanghani.me/assets/projects/whispr/poster.webp" width="150" alt="Whispr" /></a>&nbsp;
+<a href="https://www.usmanghani.me/#/calori"><img src="https://www.usmanghani.me/assets/projects/calori/poster.webp" width="150" alt="Calori" /></a>&nbsp;
+<a href="https://www.usmanghani.me/#/textify"><img src="https://www.usmanghani.me/assets/projects/textify/poster.webp" width="150" alt="Textify" /></a>
 
-**🗄️ Data**
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<sub><b>PlayGrid</b> · <b>Whispr</b> · <b>Calori</b> · <b>Textify</b> &nbsp;·&nbsp; tap one to watch it run on <a href="https://www.usmanghani.me">usmanghani.me</a></sub>
 
-**🌐 Web Basics**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**🔧 Tooling**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+</div>
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🏆 [DriftSense — CoFounder AI](https://github.com/Gojiro-34/DriftSense) · *Hackathon · Collaborator*
-> AI agent that syncs startup founding teams — captures decisions & promises across channels using Gemini AI. Deployed live on Google Cloud Run.
->
-> `JavaScript · Firebase · REST API · Google Cloud Run`
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/f243077-cell/nasconhackathon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=f243077-cell&repo=nasconhackathon&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e3b341&icon_color=e3b341&show_owner=true" alt="PlayGrid" /></a>
+
+**🏟️ PlayGrid** · *NaSCon '26 hackathon · team of 3*<br/>
+Multi-sport league platform: offline-first Flutter app, zero-account web player opened from QR codes, live scores over WebSockets. I built the fixture & standings engines, chat moderation, co-stream host handoff and the Selenium Grid suite.<br/>
+`Flutter` `FastAPI` `PostgreSQL` `Redis` `Docker` · [▶ demo](https://www.usmanghani.me/#/playgrid)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/gunee-exe/whispr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gunee-exe&repo=whispr&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e3b341&icon_color=e3b341" alt="Whispr" /></a>
+
+**🎙️ Whispr** · *iOS & Android*<br/>
+AI reminder app: type or speak a reminder in English, Roman Urdu or a mix of both and it becomes a scheduled notification. Works offline, no account, live countdown notifications.<br/>
+`Flutter` `Riverpod` `Hive` `OpenRouter` `Cloudflare Workers` · [▶ demo](https://www.usmanghani.me/#/whispr)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/gunee-exe/Calori"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gunee-exe&repo=Calori&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e3b341&icon_color=e3b341" alt="Calori" /></a>
+
+**🍛 Calori** · *Android*<br/>
+Offline-first calorie & macro tracker with a bundled database of 21,791 foods that understands local names, plus meal estimates from a photo that the user confirms before logging.<br/>
+`Flutter` `Riverpod` `Drift` `Cloudflare Workers` · [▶ demo](https://www.usmanghani.me/#/calori)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/gunee-exe/text_chat_app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gunee-exe&repo=text_chat_app&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e3b341&icon_color=e3b341" alt="Textify" /></a>
+
+**💬 Textify**<br/>
+Real-time messenger with @username discovery, 1:1 & group chats, swipe-to-reply, reactions and typing indicators, secured by server-side Firestore rules.<br/>
+`Flutter` `Riverpod` `Firebase Auth` `Firestore` · [▶ demo](https://www.usmanghani.me/#/textify)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/gunee-exe/Offline-chat-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gunee-exe&repo=Offline-chat-app&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e3b341&icon_color=e3b341" alt="Offline Chat App" /></a>
+
+**📡 Offline Chat App** · *Android*<br/>
+Peer-to-peer chat over a local network with TCP sockets. No internet, no server.<br/>
+`Flutter` `TCP Sockets` · [⬇ APK](https://github.com/gunee-exe/Offline-chat-app/releases/latest/download/Offline.Chat.apk)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Gojiro-34/DriftSense"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gojiro-34&repo=DriftSense&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e3b341&icon_color=e3b341&show_owner=true" alt="DriftSense" /></a>
+
+**🏆 DriftSense** · *24-hour hackathon · GDG on Campus FAST-NUCES*<br/>
+AI commitment tracker: pulls deadlines out of team messages, flags conflicts and sends daily briefings.<br/>
+`Node.js` `Gemini` `Firebase` `Cloud Run` · [↗ live](https://driftsense-op0n.onrender.com/)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More projects</b></summary>
+<br/>
+
+- ☕ [**Cafe Manager**](https://github.com/gunee-exe/cafe-system): billing, inventory and customers, with audit logging and loyalty points enforced inside PostgreSQL. `PL/pgSQL · Python · Flask`
+- ✈️ [**Air Traffic Control System**](https://github.com/gunee-exe/ds-project-air-traffic-control): CLI ATC in C++ with an AVL tree, min heap, hash table and queue working together. `C++ · DSA`
+- 🎓 [**FAST University Management System**](https://github.com/f243103-fk/fast-university-management-system): modular C++ system simulating FAST's academic operations with discrete mathematics. `C++ · Collaborator`
+- 🏏 [**Cricket Quiz App**](https://github.com/gunee-exe/Flutter-based-quiz-game): Flutter quiz game with animated UI, MCQs and a live scoring engine. `Flutter · Dart`
+- 🛒 [**Shopping List App**](https://github.com/gunee-exe/Shopping-list): realtime cross-device shopping list with Firestore sync. `Flutter · Firebase`
+
+</details>
 
 ---
 
-### 🖥️ [NEBULA OS V3](https://github.com/Abdul-Hadi-Munir/NEBULA-OS-V3) · *Collaborator · Systems*
-> C++17 OS simulator with multi-level queue (MLQ) scheduler, process control blocks (PCBs), IPC via POSIX named pipes, and Unix signal handling.
->
-> `C++17 · OS Concepts · IPC · Linux · Makefile`
+## 🗡️ The Arsenal
+
+<div align="center">
+
+**📱 Mobile**<br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase,sqlite&theme=dark" alt="Mobile" />
+
+**⚙️ Backend & Cloud**<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,flask,postgres,redis,supabase,cloudflare,gcp,docker&theme=dark" alt="Backend & Cloud" />
+
+**🧠 AI**<br/>
+![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=claude&logoColor=D97757)
+![Gemini](https://img.shields.io/badge/Gemini-191919?style=flat-square&logo=googlegemini&logoColor=8E75B2)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-191919?style=flat-square&logo=openrouter&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-191919?style=flat-square)
+![Voice to AI](https://img.shields.io/badge/Voice--to--AI_Pipelines-191919?style=flat-square)
+
+**🔤 Languages**<br/>
+<img src="https://skillicons.dev/icons?i=dart,py,java,cpp,js,html,css&theme=dark" alt="Languages" />
+
+**🔧 Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,linux&theme=dark" alt="Tools" />
+
+</div>
 
 ---
 
-### 🎓 [FAST University Management System](https://github.com/f243103-fk/fast-university-management-system) · *Collaborator · 12 Modules*
-> Modular C++ system simulating FAST's academic operations using Discrete Mathematics — sets, relations, logic inference, scheduling, consistency checking.
->
-> `C++ · Discrete Math · Modular Architecture`
+## 🌃 The City Never Sleeps
 
----
+<div align="center">
 
-### ✈️ [Air Traffic Control System](https://github.com/gunee-exe/ds-project-air-traffic-control)
-> CLI-based ATC in C++ — AVL Tree, Min Heap, Hash Table, and Queue all working together in one real system.
->
-> `C++ · AVL Tree · Min Heap · Hash Table · Queue`
+<img src="https://raw.githubusercontent.com/gunee-exe/gunee-exe/output/night-city.svg" alt="My last year of contributions as a city at night: every lit window is a day I shipped something" width="100%" />
 
----
+<sub>my contribution graph, drawn as a skyline · rebuilt twice a day by a GitHub Action in this repo</sub>
 
-### 🏏 [Cricket Quiz App](https://github.com/gunee-exe/Flutter-based-quiz-game)
-> Flutter quiz game with animated UI, MCQs, and a live scoring engine.
->
-> `Flutter · Dart · State Management`
-
----
-
-### 🛒 [Shopping List App](https://github.com/gunee-exe/Shopping-list)
-> Realtime cross-device shopping list with Firebase Firestore sync and clean Material UI.
->
-> `Flutter · Firebase · Dart`
+</div>
 
 ---
 
@@ -120,9 +188,10 @@ const dev = {
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=gunee-exe&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e3b341&icon_color=e3b341&include_all_commits=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunee-exe&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e3b341" height="165" alt="Top languages" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=gunee-exe&theme=dark&hide_border=true)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=gunee-exe&theme=dark&hide_border=true&background=0d1117&ring=e3b341&fire=e3b341&currStreakLabel=e3b341)
 
 </div>
 
